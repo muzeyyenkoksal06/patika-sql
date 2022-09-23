@@ -1,3 +1,4 @@
+--- Bütün verileri görmek için(kesişen) UNION ALL kullanıldı.
 (
  SELECT first_name FROM actor
  ORDER BY first_name 
